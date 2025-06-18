@@ -2,7 +2,7 @@
 
 int main(){
 
-    printf("Desafio Super Trunfo!");
+    printf("Desafio Super Trunfo! \n");
 
     char estado1[20], estado2[20];
     char codigo1[20], codigo2[20];
@@ -36,14 +36,6 @@ int main(){
 
     //carta numero 2
  
-    char ;
-    char ;
-    char ;
-    int ;
-    float ;
-    float ; 
-    int ;
-
     printf("Digite uma letra entre A a H: \n");
     scanf(" %s", &estado2);
 
